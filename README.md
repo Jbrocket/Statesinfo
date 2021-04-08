@@ -1,0 +1,2 @@
+# Statesinfo
+Program made in my fundamentals of computing lab. It essentially toys with some data that is read from a csv file. One of the options that took me longer to create than the others was implementing a guess the state minigame. Although, i don't know how to get the program to give a correct error message when the wrong type of input is met, so please enter integers and characters wherever one is asked.
